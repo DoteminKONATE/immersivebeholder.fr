@@ -26,7 +26,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-    background: url(../images/ImageGenrePro/decoration-de-bureaux-Oney-banque-31.jpg) no-repeat 0px 0px;
+    background: url(../images/ImageGenrePro/ImmersiveBeholderBureauCouleur.jpg) no-repeat 0px 0px;
     background-size: cover;
 	min-height:750px;
 }
@@ -42,7 +42,7 @@ body{
 	
 }
 .banner-1{
-    background: url(../images/ImageGenrePro/decoration-de-bureaux-Oney-banque-31.jpg) no-repeat 0px 0px;
+    background: url(../images/ImageGenrePro/ImmersiveBeholderBureauCouleur.jpg) no-repeat 0px 0px;
     background-size: cover;
 	min-height:350px;
 }
@@ -938,7 +938,7 @@ h2.agileinfo_header{
 /*-- //banner-bottom-1 --*/
 /*-- stats --*/
 .stats{
-	background: url(../images/ImageGenrePro/Decouvrez-grands-chiffres-lentreprise-France_0_1400_720.jpg) no-repeat 0px 0px;
+	background: url(../images/ImageGenrePro/ImmersiveBeholderFooter.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
